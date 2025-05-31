@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build-Powered%20by%20OpenRouter-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Build-Powered%20by%20OpenRouter-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Pattern%20Detection-DFS%2C%20DP%2C%20Greedy%2C%20Backtracking-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
 </p>
