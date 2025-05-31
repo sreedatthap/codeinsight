@@ -1,29 +1,48 @@
-# 🧠 CodeInsight — FAANG-Level AI Code Pattern Detector & Explainer
+<h1 align="center">CodeInsight 🚀💻 — FAANG-Level AI Code Pattern Detector & Explainer</h1>
 
-CodeInsight is an elite AI-powered system designed to analyze code snippets and generate **top-tier, structured technical documentation** — the kind you'd expect from senior engineers at Google, Amazon, or Microsoft.
+<p align="center">
+  <b>Elite AI-powered code explainer for developers who want to understand code like a FAANG engineer.</b><br/>
+</p>
 
-Whether you're prepping for interviews, writing documentation, or building dev tools, **CodeInsight gives you crystal-clear insights** into how the code works, why it was written that way, and what patterns it follows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Pattern%20Detection-DFS%2C%20DP%2C%20Greedy%2C%20Backtracking-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Explanations-FAANG%20SDE-2%2F3%20Level-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/github/license/sreedatthap/codeinsight-ai?style=flat-square" />
+</p>
+
+---
+
+## 🧠 What is CodeInsight?
+
+**CodeInsight** is an AI-powered tool that analyzes source code and generates structured, professional-grade explanations — the kind you'd expect from senior engineers at companies like Google, Amazon, or Microsoft.
+
+Whether you're prepping for interviews, building dev tools, or documenting algorithms, **CodeInsight** delivers high-quality, pattern-aware breakdowns of your code.
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Pattern Detection**: Detects common algorithmic patterns like DFS, BFS, DP, Greedy, Two-Pointer, Backtracking, Graph, etc.
-- 🧠 **AI-Powered Explanations**: Generates ultra-clean, readable documentation in a consistent format — **exactly like a FAANG SDE-2/3 would explain it**.
-- 🧱 **Segmented Output**:
-  - `// Pattern Detected:` — Pattern classification (e.g., "Dynamic Programming – 0/1 Knapsack")
-  - Inline commented code — well-documented with intent and strategy
-  - `// Key Insights:` — High-level takeaways in bullet points
-  - `// Sample Input and Output:` — Clear usage examples
-  - `// Time and Space Complexity:` — No ambiguity, just direct analysis
-- ⚙️ **Language Support**: Currently supports Python, with support for JavaScript and Java coming soon.
-- 🛠️ **CLI & Web Interface (Coming Soon)**
+- 🔍 **Pattern Detection**  
+  Recognizes standard patterns: DFS, BFS, DP, Greedy, Two Pointers, Backtracking, Graph Traversals, and more.
+
+- 🧠 **AI-Powered Explanations**  
+  Outputs code with inline comments + summary — explained like a FAANG SDE-2/3 would.
+
+- 📐 **Segmented Output Format**  
+  - `// Pattern Detected:` – Classification (e.g., "Dynamic Programming – 0/1 Knapsack")  
+  - **Inline commented code** – Clear and intentional explanation  
+  - `// Key Insights:` – High-level bullet points  
+  - `// Sample Input and Output:` – Concrete usage examples  
+  - `// Time and Space Complexity:` – Formal analysis
+
+- 🧱 **Language Support**  
+  Currently supports: Python, JavaScript, Java, C++
 
 ---
 
 ## 📦 Example Output
 
-> Input: A 0/1 Knapsack solution in Python
+> Input: Python code solving 0/1 Knapsack using bottom-up DP
 
 ```python
 // Pattern Detected: Dynamic Programming — 0/1 Knapsack using Bottom-Up Tabulation
@@ -68,53 +87,65 @@ Space: O(n * capacity)
 
 ## 🧩 Use Cases
 
-- ✅ Competitive programming preparation
-- ✅ Codebase documentation at scale
-- ✅ Building coding platforms or AI dev tools
-- ✅ Generating smart documentation for interviews or portfolios
+- ✅ Competitive programming prep  
+- ✅ Automated codebase documentation  
+- ✅ Coding platform + devtool integrations  
+- ✅ Interview-ready explanations for portfolio and GitHub  
+- ✅ Improving technical communication
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Language**: Python, Java, C++, JavaScript
-- **AI Models**: GPT-4 / Claude / Local LLMs via OpenRouter or LMStudio
-- **Frontend (Optional)**: React.js + Tailwind CSS + Framer Motion
-- **Backend**: FastAPI (Python)
-- **Deployment**: Vercel (Frontend), Render (Backend)
+- 💬 **AI Models**: GPT-4 / Claude / Local LLMs (via OpenRouter or LMStudio)  
+- ⚙️ **Backend**: FastAPI (Python)  
+- 💻 **Frontend (optional)**: React.js + Tailwind CSS + Framer Motion  
+- 🚀 **Deployment**: Vercel (Frontend), Render or Localhost (Backend)  
+- 🧠 **Language Support**: Python (Current), Java & JavaScript (Coming Soon)
 
 ---
 
 ## 🧪 Getting Started
 
 ```bash
-# Clone the repo
+# Clone the repository
 git clone https://github.com/yourusername/codeinsight-ai.git
 cd codeinsight-ai
 
-# Install dependencies (Python 3.8+)
+# Install dependencies
 pip install -r requirements.txt
 
-# Run backend server
+# Run the backend server
 uvicorn app.main:app --reload
 
-# Access the API at:
+# Open the interactive docs
 http://localhost:8000/docs
 ```
+
 ---
 
 ## 📄 License
 
-MIT License — free for personal and commercial use.
+MIT License — free to use for personal and commercial projects.
 
 ---
 
 ## 💬 Credits
 
-Built with ❤️ by Sree Dattha P — inspired by the way senior engineers explain code in whiteboard interviews and code reviews.
+Built with ❤️ by **Sree Dattha P** — inspired by the way FAANG engineers explain code during interviews, whiteboarding rounds, and code reviews.
 
 ---
 
-## 🌟 Star This Repo
+## 🌟 Like This Project?
 
-If you find this useful, **star it** and share it with devs prepping for coding interviews. Help others write better code, with better understanding.
+If you find this helpful:
+
+- 🌟 Star this repo
+- 🍴 Fork it
+- 📢 Share with other devs preparing for interviews!
+
+---
+
+<div align="center">
+  <sub>Made with precision & love by <a href="https://github.com/sreedatthap">Sree Dattha P</a> | 2025</sub>
+</div>
