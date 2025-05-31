@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pattern%20Detection-DFS%2C%20DP%2C%20Greedy%2C%20Backtracking-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Explanations-FAANG%20SDE-2%2F3%20Level-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
 </p>
 
