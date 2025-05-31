@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Elite AI-powered code explainer for developers who want to understand code like a FAANG engineer.</b><br/>
-  CodeInsight detects algorithmic patterns (like DFS, DP, Greedy, Backtracking) and explains code with clean, professional documentation.<br/>
-  Whether you're preparing for interviews — CodeInsight delivers structured insights, high-level takeaways, sample I/O, and complexity analysis.<br/>
+  CodeInSight detects algorithmic patterns (like DFS, DP, Greedy, Backtracking) and explains code with clean, professional documentation.<br/>
+  Whether you're preparing for interviews — CodeInSight delivers structured insights, high-level takeaways, sample I/O, and complexity analysis.<br/>
   Built for clarity. Powered by AI. Crafted for serious developers.
 </p>
 
@@ -19,18 +19,18 @@
 
 ---
 
-## 🧠 What is CodeInsight?
+## 🧠 What is CodeInSight?
 
-**CodeInsight** is an AI-powered tool that analyzes source code and generates structured, professional-grade explanations — the kind you'd expect from senior engineers at companies like Google, Amazon, or Microsoft.
+**CodeInSight** is an AI-powered tool that analyzes source code and generates structured, professional-grade explanations — the kind you'd expect from senior engineers at companies like Google, Amazon, or Microsoft.
 
-Whether you're prepping for interviews -- **CodeInsight** delivers high-quality, pattern-aware breakdowns of your code.
+Whether you're prepping for interviews -- **CodeInSight** delivers high-quality, pattern-aware breakdowns of your code.
 
 ---
 
 ## 🚀 Features
 
 - 🔍 **Pattern Detection**  
-  Recognizes standard patterns: DFS, BFS, DP, Greedy, Two Pointers, Backtracking, Graph Traversals, and lot more patterns.
+  Recognizes standard patterns: DFS, BFS, DP, Greedy, Two Pointers, Backtracking, Graph Traversals, and lot more.
 
 - 🧠 **AI-Powered Explanations**  
   Outputs code with inline comments + summary — explained like a FAANG SDE-2/3 would.
@@ -38,7 +38,7 @@ Whether you're prepping for interviews -- **CodeInsight** delivers high-quality,
 - 📐 **Segmented Output Format**  
   - `// Pattern Detected:` – Classification (e.g., "Dynamic Programming – 0/1 Knapsack")  
   - **Inline commented code** – Clear and intentional explanation  
-  - `// Key Insights:` – High-level bullet points  
+  - `// Key insights:` – High-level bullet points  
   - `// Sample Input and Output:` – Concrete usage examples  
   - `// Time and Space Complexity:` – Formal analysis
 
@@ -95,7 +95,7 @@ Space: O(n * capacity)
 ## 🧩 Use Cases
 
 - ✅ Competitive programming prep  
-- ✅ Automated codebase documentation  
+- ✅ Automated codebase explanantion with pattern detection
 - ✅ Coding platform + devtool integrations  
 - ✅ Interview-ready explanations for portfolio and GitHub  
 - ✅ Improving technical communication
@@ -116,8 +116,8 @@ Space: O(n * capacity)
 
 ```bash
 # Clone the repository
-git clone https://github.com/sreedatthap/codeinsight-ai.git
-cd codeinsight-ai
+git clone https://github.com/sreedatthap/codeinsight.git
+cd codeinsight
 
 # Install dependencies
 pip install -r requirements.txt
