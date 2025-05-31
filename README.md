@@ -23,14 +23,14 @@
 
 **CodeInsight** is an AI-powered tool that analyzes source code and generates structured, professional-grade explanations — the kind you'd expect from senior engineers at companies like Google, Amazon, or Microsoft.
 
-Whether you're prepping for interviews, building dev tools, or documenting algorithms, **CodeInsight** delivers high-quality, pattern-aware breakdowns of your code.
+Whether you're prepping for interviews -- **CodeInsight** delivers high-quality, pattern-aware breakdowns of your code.
 
 ---
 
 ## 🚀 Features
 
 - 🔍 **Pattern Detection**  
-  Recognizes standard patterns: DFS, BFS, DP, Greedy, Two Pointers, Backtracking, Graph Traversals, and more.
+  Recognizes standard patterns: DFS, BFS, DP, Greedy, Two Pointers, Backtracking, Graph Traversals, and lot more patterns.
 
 - 🧠 **AI-Powered Explanations**  
   Outputs code with inline comments + summary — explained like a FAANG SDE-2/3 would.
@@ -104,11 +104,11 @@ Space: O(n * capacity)
 
 ## 🛠 Tech Stack
 
-- 💬 **AI Models**: GPT-4 / Claude / Local LLMs (via OpenRouter or LMStudio)  
+- 💬 **AI Models**: GPT-4 / Claude / Local LLMs (via OpenRouter)  
 - ⚙️ **Backend**: FastAPI (Python)  
 - 💻 **Frontend (optional)**: React.js + Tailwind CSS + Framer Motion  
-- 🚀 **Deployment**: Vercel (Frontend), Render or Localhost (Backend)  
-- 🧠 **Language Support**: Python (Current), Java & JavaScript (Coming Soon)
+- 🧠 **Language Support**: Python, Java, C++, JavaScript
+- 🚀 **Deployment**: Vercel (Frontend), Render or Localhost (Backend) (Coming Soon)
 
 ---
 
