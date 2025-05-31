@@ -1,4 +1,4 @@
-<h1 align="center">CodeInsight 🚀💻 — FAANG-Level AI Code Pattern Detector & Explainer</h1>
+<h1 align="center">CodeInSight 🚀💻 — FAANG-Level AI Code Pattern Detector & Explainer</h1>
 
 <p align="center">
   <b>Elite AI-powered code explainer for developers who want to understand code like a FAANG engineer.</b><br/>
