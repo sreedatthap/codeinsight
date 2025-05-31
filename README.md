@@ -115,7 +115,7 @@ Space: O(n * capacity)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/codeinsight-ai.git
+git clone https://github.com/sreedatthap/codeinsight-ai.git
 cd codeinsight-ai
 
 # Install dependencies
