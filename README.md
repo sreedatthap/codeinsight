@@ -2,12 +2,19 @@
 
 <p align="center">
   <b>Elite AI-powered code explainer for developers who want to understand code like a FAANG engineer.</b><br/>
+  CodeInsight detects algorithmic patterns (like DFS, DP, Greedy, Backtracking) and explains code with clean, professional documentation.<br/>
+  Whether you're preparing for interviews — CodeInsight delivers structured insights, high-level takeaways, sample I/O, and complexity analysis.<br/>
+  Built for clarity. Powered by AI. Crafted for serious developers.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pattern%20Detection-DFS%2C%20DP%2C%20Greedy%2C%20Backtracking-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Explanations-FAANG%20SDE-2%2F3%20Level-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/github/license/sreedatthap/codeinsight-ai?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+</p>
+
+<p align="center">
+  Detects common algorithmic patterns and explains them like a FAANG engineer — backed by MIT License.
 </p>
 
 ---
