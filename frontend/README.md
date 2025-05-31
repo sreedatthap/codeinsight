@@ -1,9 +1,5 @@
 # 🚀 CodeInSight - AI-Powered Code Analysis
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=👨‍💻+CodeInSight+-+AI-Powered+Code+Analysis;⚡+Built+with+React.js+%2B+FastAPI+%2B+Mistral;💡+Get+Instant+Code+Insights+and+Pattern+Recognition" alt="CodeInSight Typing SVG">
-</p>
-
 ---
 
 ## ✨ About CodeInSight
@@ -106,4 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with ❤️ by Sree Dattha P
 </p>
-npm run dev
