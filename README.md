@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Elite AI-powered code explainer for developers who want to understand code like a FAANG engineer.</b><br/>
-  CodeInSight detects algorithmic patterns (like DFS, DP, Greedy, Backtracking and lot more patterns) and explains code with clean, professional documentation.<br/>
+  CodeInSight detects algorithmic patterns (like DFS, DP, Greedy, Backtracking and lot more) and explains code with clean, professional documentation.<br/>
   Whether you're preparing for interviews — CodeInSight delivers structured insights, high-level takeaways, sample I/O, and complexity analysis.<br/>
   Built for clarity. Powered by AI. Crafted for serious developers.
 </p>
